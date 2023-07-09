@@ -4,6 +4,7 @@
 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Partner][contributors-shield]][contributors-url]
 
 
 <!-- PROJECT LOGO -->
@@ -42,6 +43,21 @@
           <li><a href="#built-with">Built With</a></li>
         </ul>
     </li>
+    <li>
+      <a>Screenshots</a>
+        <ul>
+          <li><a href="#home-screen">Home Screen</a></li>
+        </ul>
+        <ul>
+          <li><a href="#chapters">Chapters page</a></li>
+        </ul>
+        <ul>
+          <li><a href="#cover-page">Cover Page</a></li>
+        </ul>
+        <ul>
+          <li><a href="#reading-page">Reading page</a></li>
+        </ul>
+    </li>
     <li><a href="#scope">Future Scope</a></li>
     <li><a href="#conclusion">Conclusion</a></li> 
   </ol>
@@ -49,7 +65,8 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+ <img src="Images/banner.png" alt="Logo" width="1280" height="420">
 
 MiyuManga combines functionality, convenience, and aesthetics to provide a comprehensive manga reading experience on the Android platform. With its extensive manga library, seamless navigation, and inclusion of fan art, MiyuManga aims to delight manga enthusiasts and create a thriving community of manga lovers within the app.
 
@@ -71,7 +88,23 @@ Android SDK uses ADB tool as a connection device which allows us to connect the 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Scope
+## Screenshots
+
+### Home Screen
+<img  src="Images/Home_Screen.jpg" alt="Logo" width="300" >
+
+### Chapters
+<img  src="Images/Chapters.jpg" alt="Logo" width="300" >
+
+### Cover Page
+<img  src="Images/Cover_Page.jpg" alt="Logo" width="300" >
+
+### Reading Page
+<img  src="Images/Reading_page.jpg" alt="Logo" width="300" >
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Future Scope
 
 MiyuManga has the potential for further development and enhancement, allowing it to become an even more immersive and engaging platform for manga enthusiasts. The following potential future scope areas can expand the app's capabilities and attract a broader user base:
 
@@ -104,11 +137,11 @@ In conclusion, by considering these potential future scope areas, MiyuManga has 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://https://github.com/AshishKumarD/MiyuManga/graphs/contributors
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ashishkumard1111
-[product-screenshot]: Images/images.png
+[product-screenshot]: Images/banner.png
 
