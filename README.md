@@ -66,7 +66,7 @@
 ## About The Project
 
 
- <img src="Images/banner.png" alt="Logo" width="1280" height="420">
+ <img src="Images/banner.png" alt="Logo">
 
 MiyuManga combines functionality, convenience, and aesthetics to provide a comprehensive manga reading experience on the Android platform. With its extensive manga library, seamless navigation, and inclusion of fan art, MiyuManga aims to delight manga enthusiasts and create a thriving community of manga lovers within the app.
 
